@@ -1,0 +1,129 @@
+{
+  "products": [
+    {
+      "id": "",
+      "title": "Nike Dunk Low Retro",
+      "description": "Created for the hardwood but taken to the streets, the basketball icon returns with classic details and throwback hoops flair. Channeling '80s vibes, its padded, low-cut collar lets you take your game anywhere—in comfort.",
+      "content": "",
+      "price": "115",
+      "brand": "Nike",
+      "quantity": "10",
+      "monetaryUnites": "$",
+      "imageUrl": "./assets/products/card/nike.png",
+      "category": "Men's Sneakers"
+    },
+    {
+      "id": "",
+      "title": "Campus Oos Shoes",
+      "description": "Proportions are changing, and personal style reigns supreme. With a new perspective on our Campus 80s, these adidas sneakers show bold simplicity at its best with a clean suede upper and classic contrasting 3-Stripes. Updated proportions inspired by the 2000s skate era bring an authentic, self-defined vibe to your everyday style.",
+      "content": "",
+      "price": "110",
+      "brand": "Adidas",
+      "quantity": "5",
+      "monetaryUnites": "$",
+      "imageUrl": "./assets/products/card/nike1.png",
+      "category": "Women's Sneakers"
+    },
+    {
+      "id": "",
+      "title": "Puma",
+      "description": "",
+      "content": "",
+      "price": "120",
+      "brand": "Puma",
+      "quantity": "9",
+      "monetaryUnites": "$",
+      "imageUrl": "./assets/products/card/nike2.png",
+      "category": "Kids' Sneakers"
+    },
+    {
+      "id": "",
+      "title": "Toddler Sk8-Hi Zip Shoe",
+      "description": "The Sk8-Hi was a game changer as the first high-top skate shoe to break onto the scene in 1978. But the innovation didn’t stop there. Combining this legendary silhouette with a zipper entry at the heel for increased versatility, the Toddler Sk8-Hi Zip blends bold design with easy access for an iconic style like no other.",
+      "content": "",
+      "price": "46.00",
+      "brand": "Vans",
+      "quantity": "20",
+      "monetaryUnites": "$",
+      "imageUrl": "./assets/products/card/nike3.png",
+      "category": "Running"
+    },
+    {
+      "id": "",
+      "title": "Women's HeatGear® No-Slip Waistband Full-Length Leggings",
+      "description": "Cut the mid-workout distractions. Made with a high-rise UA No-Slip Waistband, these women’s leggings support you with every movement, have material that lets you move freely in all directions, and wick sweat to keep you dry.",
+      "content": "",
+      "price": "50.00",
+      "brand": "Under Armour",
+      "quantity": "10",
+      "monetaryUnites": "$",
+      "imageUrl": "./assets/products/card/nike4.png",
+      "category": "Running"
+    },
+    {
+      "id": "",
+      "title": "Athletics T-Shirt",
+      "description": "A breathable top designed for wear in or out of the gym.",
+      "content": "",
+      "price": "49.99",
+      "brand": "New Balance",
+      "quantity": "32",
+      "monetaryUnites": "$",
+      "imageUrl": "./assets/products/card/nike5.png",
+      "category": "Running"
+
+    },
+    {
+      "id": "",
+      "title": "Nike",
+      "description": "",
+      "content": "",
+      "price": "55",
+      "brand": "ASICS",
+      "quantity": "25",
+      "monetaryUnites": "$",
+      "imageUrl": "./assets/products/card/nike6.png",
+      "category": "Running"
+
+    },
+    {
+      "id": "",
+      "title": "Reebok Milk T-Shirt",
+      "description": "Simple, soft and signature. That's the vibe of this t-shirt created with NYC-based Milk Studios, the creative agency where Milk Makeup is made and where it was founded. Make sure you notice the back graphic, which literally stands out. Milk Studios has been synonymous with inclusivity, versatility and collaboration. The Reebok Equipment Essentials by Milk Makeup capsule takes inspiration from the 'working class' and is rooted in utility, trans-seasonality and functionality.",
+      "content": "",
+      "price": "45",
+      "brand": "Reebok",
+      "quantity": "35",
+      "monetaryUnites": "$",
+      "imageUrl": "./assets/products/card/nike7.png",
+      "category": "Electronics"
+
+    },
+    {
+      "id": "",
+      "title": "Women's PFG Castback™ Shoe",
+      "description": "This style is inspired by our Founder, Gert Boyle, who helped design tough, timeless gear that led to current innovations.",
+      "content": "",
+      "price": "80.00",
+      "brand": "Columbia Sportswear",
+      "quantity": "25",
+      "monetaryUnites": "$",
+      "imageUrl": "./assets/products/card/nike8.png",
+      "category": "Football"
+
+    },
+    {
+      "id": "",
+      "title": "Classic Short",
+      "description": "",
+      "content": "",
+      "price": "45.00",
+      "brand": "Fila",
+      "quantity": "15",
+      "monetaryUnites": "$",
+      "imageUrl": "./assets/products/card/nike9.png",
+      "category": "Tennis"
+
+    }
+  ]
+}

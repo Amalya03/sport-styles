@@ -1,0 +1,16 @@
+.footer_container {
+  background: var(--grey);
+  height: 300px;
+  bottom: 0;
+}
+
+@media screen and (max-width: 600px) {
+  .footer_container {
+    align-items: start !important;
+    bottom: 80px !important;
+    height: 350px;
+  }
+  .items_container {
+    flex-wrap: wrap;
+  }
+}

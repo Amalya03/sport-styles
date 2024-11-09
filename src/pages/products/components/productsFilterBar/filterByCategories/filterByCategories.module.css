@@ -1,0 +1,45 @@
+.filterImage {
+  width: 40px;
+  padding-bottom: 4px;
+}
+
+.filterImage:hover {
+  cursor: pointer;
+}
+
+.checkboxContainer {
+  gap: 5px;
+}
+
+.checkboxContainer label,
+input {
+  margin: 0;
+}
+
+.checkboxContainer label,
+input:hover {
+  cursor: pointer;
+}
+
+.actionButton {
+  display: flex;
+  gap: 10px;
+  margin-top: 20px;
+  justify-content: center;
+}
+
+.filterActions {
+  justify-content: end;
+  display: flex;
+}
+
+.filterActions button {
+  background: none;
+  border: none;
+  color: #808080;
+}
+
+.button {
+  background: none;
+  border: none;
+}

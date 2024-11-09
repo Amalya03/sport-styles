@@ -1,0 +1,13 @@
+.text {
+  font-size: 25px;
+  font-weight: 700;
+}
+
+.gap_50 {
+  gap: 50px;
+}
+
+.modal_container {
+  height: 160px;
+  padding: 20px 0;
+}
