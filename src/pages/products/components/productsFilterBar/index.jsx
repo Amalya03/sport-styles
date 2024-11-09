@@ -53,7 +53,7 @@ const ProductFilterBar = ({ data, setFilteredData, setShow }) => {
       <Select
         text={text}
         filterByManufacturer={(value) => {
-          filterProducts(value, "manufacturer");
+          filterProducts(value, "brand");
           setText(value);
         }}
       />

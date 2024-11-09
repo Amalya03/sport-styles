@@ -59,9 +59,9 @@ const ProductsData = ({
                 editProduct={() => editProduct(item.id)}
                 status={status}
                 deleteProduct={() => showModal(item.id)}
-                key={`${item.name}_${index}`}
+                key={`${item.title}_${index}`}
                 image={item.imageUrl}
-                title={item.name}
+                title={item.title}
                 price={item.price}
                 category={item.category}
                 monetaryUnites={item.monetaryUnites}
